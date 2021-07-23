@@ -1,0 +1,2 @@
+transaction.csv filter=lfs diff=lfs merge=lfs -text
+transactions.txt filter=lfs diff=lfs merge=lfs -text
